@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.so
+*.mp4
+*.wav
+*.npy
+*.png
+*.jpg
+out/
+out_v/
+final/
+work/
+NeoRetroFillPT.ttf

@@ -1,0 +1,23 @@
+Copyright (c) 2026 Lucas Gardezani Abduch / Malabarize-se
+
+Exceto onde indicado abaixo, o conteúdo deste repositório (código, partituras geradas por código,
+imagens e vídeos gerados por ele) está licenciado sob a Creative Commons Atribuição-NãoComercial 4.0
+Internacional (CC BY-NC 4.0): https://creativecommons.org/licenses/by-nc/4.0/legalcode.pt
+
+Você pode copiar, redistribuir, adaptar e criar obras derivadas, desde que:
+- dê o crédito: "Isso é malabarismo, de Lucas Gardezani Abduch / Malabarize-se (youtube.com/malabarismo)",
+  com link para esta licença e indicando se fez alterações;
+- não use para fins comerciais.
+
+Exceções (não estão sob a CC BY-NC 4.0):
+- Marca Malabarize-se: o monstrinho, o wordmark e os vetores em `*/brand/*.svg` são marcas e só podem
+  ser usados para se referir ao Malabarize-se; não podem ser usados em obras derivadas como marca própria.
+- Fonte Titillium Web (`*/brand/titillium-*`): SIL Open Font License 1.1.
+- Amostras de instrumentos usadas pela trilha (não incluídas): VSCO-2 Community Edition, CC0.
+
+---
+
+English summary: except as noted above, this repository is licensed under CC BY-NC 4.0
+(https://creativecommons.org/licenses/by-nc/4.0/legalcode). You may share and adapt it, including
+derivative works, for non-commercial purposes only, with attribution to Lucas Gardezani Abduch /
+Malabarize-se. The Malabarize-se marks are not licensed; Titillium Web is under the SIL OFL 1.1.
